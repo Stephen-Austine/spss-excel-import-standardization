@@ -185,14 +185,6 @@ participant data, remove direct identifiers and assess whether dates or other
 fields could still identify individuals. This small example should not be
 treated as anonymised merely because the README does not display its records.
 
-## GitHub repository About section
-
-Suggested text to copy into the repository's **About** settings:
-
-- **Description:** `Example SPSS dataset from an Excel import, with height and weight z-score standardisation, a Python .sav inspection utility, and pytest checks.`
-- **Website:** Leave blank (no project website is configured).
-- **Topics:** `spss`, `excel-import`, `data-standardization`, `z-scores`, `pyreadstat`, `python`, `data-dictionary`, `research-data`
-
 ## License
 
 Released under the [MIT License](LICENSE).
